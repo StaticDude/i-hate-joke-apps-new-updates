@@ -1,0 +1,53 @@
+```python
+input("version 0.2 the gamers heaven! click enter for joke")
+
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+
+print("2020: >:) for gamers \n 2021: :_( ")
+
+print("")
+print("")
+print("")
+
+# the plain prints are important because it will stick together
+
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+input("CLICK ENTER FOR AD!!!!! |Enter|")
+
+print("go sub to coder(Rudra); and code with the tech man you will find him in my subscription box!")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("mostly the update version 0.2 was some bug fixes")
+```
